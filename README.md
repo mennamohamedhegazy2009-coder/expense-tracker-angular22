@@ -40,8 +40,6 @@ The AI receives the current expense data and must answer only from the provided 
 
 * Angular 22
 * TypeScript
-* PrimeNG 22
-* PrimeIcons
 * PrimeFlex
 * Reactive Forms
 * RxJS
@@ -138,27 +136,6 @@ Build output:
 ```text
 dist/expense-tracker
 ```
-
-## 📦 Important
-
-Do not upload these folders to GitHub:
-
-```text
-node_modules/
-dist/
-.angular/
-```
-
-The project includes:
-
-```text
-db.json
-package.json
-package-lock.json
-```
-
-so the application can be installed and run easily.
-
 ## 👩‍💻 Author
 
 **Dalia Mohamed**
