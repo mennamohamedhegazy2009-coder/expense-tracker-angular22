@@ -1,0 +1,75 @@
+{
+  "expenses": [
+    {
+      "id": 2,
+      "amount": 20,
+      "category": "Food",
+      "date": "2026-09-10",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "amount": 55,
+      "category": "Transport",
+      "date": "2026-09-09",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "amount": 55,
+      "category": "Entertainment",
+      "date": "2026-09-09",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "amount": 500,
+      "category": "Food",
+      "date": "2026-09-10",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "amount": 500,
+      "category": "Transport",
+      "date": "2026-09-08",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "amount": 10000,
+      "category": "Transport",
+      "date": "2026-09-13",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "amount": 200,
+      "category": "Bills",
+      "date": "2026-09-13",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "amount": 500,
+      "category": "Food",
+      "date": "2026-09-07",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "amount": 500,
+      "category": "Food",
+      "date": "2026-09-01",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "amount": 5000,
+      "category": "Food",
+      "date": "2026-09-13",
+      "note": "Lunch"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
